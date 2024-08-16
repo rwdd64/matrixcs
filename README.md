@@ -1,3 +1,5 @@
+![matrixcs Demo](https://i.imgur.com/8mWbC4i.gif)
+
 # Matrix
 ## Um programa que gera um terminal estilo Matrix no console. Feito com C#.
 Para rodar, é necessário ter o [dotnet](https://dotnet.microsoft.com/en-us/download) instalado.
